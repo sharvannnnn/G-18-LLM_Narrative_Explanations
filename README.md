@@ -10,11 +10,6 @@ The goal is to predict diabetes progression (regression) or risk classification 
 - Required packages: pandas, numpy, scikit-learn, matplotlib, shap, lime, torch, captum
 - Dataset: `Ddiabetes_data.csv` (diabetes dataset with features like age, BMI, blood pressure, etc.)
 
-Install dependencies:
-```bash
-pip install pandas numpy scikit-learn matplotlib shap lime torch captum
-```
-
 ## Step-by-Step Process
 
 ### 1. Data Preprocessing (`1_data_preprocessing.py`)
