@@ -1,0 +1,12 @@
+ANN Regression Results
+Samples: 8561, Features: 10
+
+Train metrics:
+  RMSE: 2804.4715
+  MAE:  1319.3851
+  R2:   0.9997
+
+Test metrics:
+  RMSE: 1912.1475
+  MAE:  1302.6116
+  R2:   0.9999
