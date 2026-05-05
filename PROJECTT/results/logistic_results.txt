@@ -1,0 +1,18 @@
+Logistic Regression Classification Results
+Samples: 8561, Features: 10
+Accuracy: 0.8932
+ROC AUC: 0.9535
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0     0.8698    0.9255    0.8968       859
+           1     0.9199    0.8607    0.8893       854
+
+    accuracy                         0.8932      1713
+   macro avg     0.8949    0.8931    0.8930      1713
+weighted avg     0.8948    0.8932    0.8930      1713
+
+Confusion matrix:
+[[795  64]
+ [119 735]]
