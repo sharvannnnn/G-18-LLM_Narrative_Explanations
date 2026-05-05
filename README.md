@@ -148,6 +148,7 @@ python 8_medical_narration.py
 - **Outputs**: `.txt` files (metrics), `.png` files (plots), `.html` files (interactive explanations)
 
 ## Conclusion
-This project showcases end-to-end ML with emphasis on explainability. The ANN provides accurate predictions, while XAI methods ensure transparency. The medical narration makes complex AI insights accessible to healthcare professionals and patients.
+This project showcases end-to-end ML with emphasis on explainability. The ANN provides accurate predictions, while XAI methods ensure transparency. 
+The goal is to predict diabetes progression (regression) or risk classification (binary), while providing clear, medical-friendly explanations of model decisions.
+The medical narration makes complex AI insights accessible to healthcare professionals and patients.
 
-For questions or customization, contact the development team.
